@@ -18,7 +18,7 @@ print("\n")
 
 print("=== Missing Values in Each Column ===")
 print(df.isnull().sum())
-print("\n")
+print("\n") 
 
 print("=== Gender Distribution ===")
 gender_counts = df['Gender'].value_counts()
