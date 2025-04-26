@@ -5,7 +5,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 === Dataset Information ===
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 1000 entries, 0 to 999
-Data columns (total 15 columns):
+Data columns (total 15 columns): 
  #   Column                       Non-Null Count  Dtype  
 ---  ------                       --------------  -----  
  0   Citizen_ID                   1000 non-null   int64  
