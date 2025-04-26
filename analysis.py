@@ -10,7 +10,7 @@ print("\n")
 
 print("=== First 5 Rows of the Dataset ===")   
 print(df.head())
-print("\n")
+print("\n") 
 
 print("=== Descriptive Statistics for Numerical Columns ===")
 print(df.describe())
