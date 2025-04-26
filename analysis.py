@@ -8,7 +8,7 @@ print("=== Dataset Information ===")
 print(df.info())
 print("\n")
 
-print("=== First 5 Rows of the Dataset ===")  
+print("=== First 5 Rows of the Dataset ===")   
 print(df.head())
 print("\n")
 
